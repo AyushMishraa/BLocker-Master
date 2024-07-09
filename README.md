@@ -1,2 +1,2 @@
 # BLocker-Master
-This is an adblocker extension
+This is an adblocker extension.
